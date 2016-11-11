@@ -1,0 +1,20 @@
+<!-- START Custom CSS -->
+
+<style>
+@media screen and (min-width: 0) { #page-container .component-quiz-questions .gallery .gallery-element.answer-element { width: 100% !important; max-width: 75% !important; } }
+@media screen and (min-width: 600px) { #page-container .component-quiz-questions .gallery .gallery-element.answer-element { max-width: 45% !important; } }
+@media screen and (min-width: 0) { #page-container .component-quiz-questions .quiz_shadow { box-shadow: none !important; -webkit-box-shadow: none !important; } }
+@media screen and (min-width: 0) { #page-container .component-quiz-questions .answer-element { height: auto !important; } }
+@media screen and (min-width: 0) { #page-container .component-quiz-questions .quiz_answer { padding: 8px !important; } }
+@media screen and (min-width: 0) { #page-container .component-quiz-questions .answerbox { height: 180px !important; } }
+@media screen and (min-width: 400px) { #page-container .component-quiz-questions .answerbox { height: 240px !important; } }
+@media screen and (min-width: 500px) { #page-container .component-quiz-questions .answerbox { height: 270px !important; } }
+@media screen and (min-width: 600px) { #page-container .component-quiz-questions .answerbox { height: 300px !important; } }
+@media screen and (min-width: 700px) { #page-container .component-quiz-questions .answerbox { height: 240px !important; } }
+@media screen and (min-width: 0) { #page-container .component-quiz-questions .quiz_answer span.quiz_checkbox { margin: 10px !important; } }
+@media screen and (min-width: 0) { #page-container .component-quiz-questions .quiz_answer:hover { background-color: #FCFCFC !important; } }
+@media screen and (min-width: 0) { #page-container .component-quiz-questions .quiz_answer { border: none !important; } }
+@media screen and (min-width: 0) { #page-container .component-quiz-questions .quiz_answer.unpick { opacity: 0.8 !important; } }
+</style>
+
+<!-- END Custom CSS -->
