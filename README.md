@@ -1,9 +1,13 @@
-# blog-post-template
+## Template Files
 
-This repository stores the template and raw HTML for all Estate Sale blog posts.
+Custom templates for the Vintage Software marketing department. The code in the above files can be used to customize the user interface of  various services. All you have to do is copy and paste the code into the appropriate area and our custom themes will make your content look good!
 
-### Make a New Blog Post
+### blog-template
 
-To make a new blog post, copy and paste the template.html into a new HTML file. Then manually edit that HTML file by adding your blog HTML code between the appropriate commented area. Note that you should not copy and paste the code from the CK Editor. You should edit the files from this repository and paste them into the CK Editor instead.
+To customize blog posts on the Estate Sales blog, you can copy and paste the code in the `blog-template` file into the editor on your blog page. This makes the page use a modern-looking theme.
+
+### WooBox Template
+
+WooBox is a Q&A service that we use. Their user interface isn't very good, so you can copy and paste the code in the `woobox-template` file to make the UI look better.
 
 If you have any questions about this repository get with David, Erica, or Matt.
