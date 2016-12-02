@@ -1,4 +1,4 @@
-<!-- START Custom CSS -->
+<!-- START Custom CSS VERSION 1 -->
 
 <style>
 @media screen and (min-width: 0) { #page-container .component-quiz-questions .gallery .gallery-element.answer-element { width: 100% !important; max-width: 75% !important; } }
@@ -17,4 +17,18 @@
 @media screen and (min-width: 0) { #page-container .component-quiz-questions .quiz_answer.unpick { opacity: 0.8 !important; } }
 </style>
 
-<!-- END Custom CSS -->
+<!-- END Custom CSS VERSION 1 -->
+
+<!-- START Custom CSS VERSION 2 -->
+
+@media screen and (min-width: 0) { #page-container .component-quiz-questions .gallery .gallery-element.answer-element { width: 100% !important; } }
+@media screen and (min-width: 0) { #page-container .component-quiz-questions .quiz_shadow { box-shadow: none !important; -webkit-box-shadow: none !important; } }
+@media screen and (min-width: 0) { #page-container .component-quiz-questions .answer-element { height: auto !important; max-width: 374px !important; } }
+@media screen and (min-width: 0) { #page-container .component-quiz-questions .quiz_answer { padding: 8px !important; } }
+@media screen and (min-width: 0) { #page-container .component-quiz-questions .answerbox { height: 284px !important; max-width: 348px !important; } }
+@media screen and (min-width: 0) { #page-container .component-quiz-questions .quiz_answer span.quiz_checkbox { margin: 10px !important; } }
+@media screen and (min-width: 0) { #page-container .component-quiz-questions .quiz_answer:hover { background-color: #FCFCFC !important; } }
+@media screen and (min-width: 0) { #page-container .component-quiz-questions .quiz_answer { border: none !important; } }
+@media screen and (min-width: 0) { #page-container .component-quiz-questions .quiz_answer.unpick { opacity: 0.8 !important; } }
+
+<!-- END Custom CSS VERSION 2 -->
